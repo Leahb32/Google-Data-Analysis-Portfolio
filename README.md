@@ -49,3 +49,4 @@ Calories
 
 FROM dailyactivity
 
+[allactivity.csv](https://github.com/Leahb32/Google-Data-Analysis-Portfolio/files/11107911/allactivity.csv)
